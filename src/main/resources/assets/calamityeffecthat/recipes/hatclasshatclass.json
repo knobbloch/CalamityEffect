@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "gag",
+        " v ",
+        "clb"
+    ],
+    "key":
+    {
+        "g":
+        {
+            "item": "minecraft:gold_ingot",
+            "data": 0
+        },
+        "a":
+        {
+            "item": "minecraft:diamond",
+            "data": 0
+        },
+        
+        "v":
+        {
+            "item": "minecraft:leather_helmet",
+            "data": 0
+        },
+        "c":
+        {
+            "item": "minecraft:cooked_chicken",
+            "data": 0
+        },
+        "l":
+        {
+            "item": "minecraft:cooked_porkchop",
+            "data": 0
+        },
+        "b":
+        {
+            "item": "minecraft:cooked_beef",
+            "data": 0
+        } 
+    },
+    "result":
+    {
+        "item": "CalamityEffectHat:exampleitem",
+        "count": 1
+    }
+}

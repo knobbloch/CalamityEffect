@@ -1,0 +1,315 @@
+[
+  {
+        "CreatureClass": "net.minecraft.entity.passive.EntityParrot",
+        "AttackType": "FlyingAttack",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityZombie",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityChicken",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntitySquid",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntitySheep",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntitySkeletonHorse",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityOcelot",
+        "AttackType": "EntityAIOcelotAttack",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "0",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityMule",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityMooshroom",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityHorse",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityLlama",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityDonkey",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityCow",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityPig",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityVillager",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityWolf",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityZombieHorse",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    }
+    ,
+    {
+        "CreatureClass": "net.minecraft.entity.passive.EntityRabbit",
+        "AttackType": "AttackMobPassive",
+        "MovementSpeed" : 1.0, 
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityEnderman",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityGhast",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityGiantZombie",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityCaveSpider",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityBlaze",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityCreeper",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityHusk",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityGuardian",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityIllusionIllager",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityPigZombie",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityMagmaCube",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityIronGolem",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityPolarBear",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityShulker",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySilverfish",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySkeleton",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySlime",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySnowman",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityVex",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityStray",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    }
+    ,
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySpider",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntitySpellcasterIllager",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityVindicator",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityWitch",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityWitherSkeleton",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    },
+    {
+        "CreatureClass": "net.minecraft.entity.monster.EntityZombieVillager",
+        "AttackType": "",
+        "MovementSpeed" : 1.0,
+        "TaskNumber": "1",
+        "TargetTaskNumber": "1"
+    }
+    
+    
+
+]
